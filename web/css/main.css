@@ -43,13 +43,13 @@ h2{
 }
 h3{
 	font-size:1em;
-	font-family:'cicle_gorditagordita' arial sans-serif;
+	font-family:'helvetica' 'verdana' arial sans-serif;
 	color:#ff931e;
 	display:inline;
 }
 p{
 	font-size:1em;
-	font-family:'ciclefina';
+	font-family:'helvetica' 'verdana' arial sans-serif;
 	color:#333;
 	line-height:1.5em;
 }
@@ -58,10 +58,10 @@ a{
 	text-decoration:underline;
 }
 a:hover{
-	font-family:'cicle_semi_italicsemi_italic' arial sans-serif;
+	font-family:'helvetica' 'verdana' arial sans-serif;
 }
 b{
-	font-family:'cicle-gordita' arial sans-serif;
+	font-family:'helvetica' 'verdana' arial sans-serif;
 	font-weight:bold;
 }
 i{
